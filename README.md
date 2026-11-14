@@ -6,7 +6,7 @@
 
 Vos chaînes, films et séries rangés automatiquement, dans une interface simple et claire.
 
-[![Dernière version](https://img.shields.io/github/v/release/boby15000/IPTVNfo-releases?label=derni%C3%A8re%20version&color=2f9bff)](https://github.com/boby15000/IPTVNfo-releases/releases/latest)
+[![Dernière version](https://img.shields.io/github/v/release/boby15000/IPTVNFO-releases?label=derni%C3%A8re%20version&color=2f9bff)](https://github.com/boby15000/IPTVNFO-releases/releases/latest)
 ![Android](https://img.shields.io/badge/Android-6.0%2B-3ddc84?logo=android&logoColor=white)
 ![Android TV](https://img.shields.io/badge/Android%20TV-compatible-3ddc84)
 ![Licence](https://img.shields.io/badge/licence-gratuite%20%C2%B7%20non%20commerciale-lightgrey)
@@ -56,13 +56,13 @@ Vous êtes seul responsable de la légalité des contenus auxquels vous accédez
 ## 📥 Installation
 
 ### Sur smartphone Android
-1. Ouvrez la page [**Dernière version**](https://github.com/boby15000/IPTVNfo-releases/releases/latest) et téléchargez **`IPTVNFO.apk`**.
+1. Ouvrez la page [**Dernière version**](https://github.com/boby15000/IPTVNFO-releases/releases/latest) et téléchargez **`IPTVNFO.apk`**.
 2. Ouvrez le fichier téléchargé.
 3. Si Android le demande, autorisez l'installation d'applications depuis cette source, puis touchez **Installer**.
 
 ### Sur Android TV
 - **Avec l'appli « Downloader »** (gratuite sur le Play Store de la TV) : saisissez l'adresse
-  `https://github.com/boby15000/IPTVNfo-releases/releases/latest/download/IPTVNFO.apk`
+  `https://github.com/boby15000/IPTVNFO-releases/releases/latest/download/IPTVNFO.apk`
 - **Ou avec une clé USB** : copiez `IPTVNFO.apk` dessus, puis ouvrez-le avec un gestionnaire de fichiers sur la TV.
 
 ### Premier lancement
