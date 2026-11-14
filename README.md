@@ -56,14 +56,14 @@ Vous êtes seul responsable de la légalité des contenus auxquels vous accédez
 ## 📥 Installation
 
 ### Sur smartphone Android
-1. Ouvrez la page [**Dernière version**](https://github.com/boby15000/IPTVNFO-releases/releases/latest) et téléchargez **`IPTVNFO.apk`**.
+1. Ouvrez la page [**Dernière version**](https://github.com/boby15000/IPTVNFO-releases/releases/latest) et téléchargez **`IPTVNFO-x.y.z.apk`** (x.y.z = numéro de version).
 2. Ouvrez le fichier téléchargé.
 3. Si Android le demande, autorisez l'installation d'applications depuis cette source, puis touchez **Installer**.
 
 ### Sur Android TV
-- **Avec l'appli « Downloader »** (gratuite sur le Play Store de la TV) : saisissez l'adresse
-  `https://github.com/boby15000/IPTVNFO-releases/releases/latest/download/IPTVNFO.apk`
-- **Ou avec une clé USB** : copiez `IPTVNFO.apk` dessus, puis ouvrez-le avec un gestionnaire de fichiers sur la TV.
+- **Avec l'appli « Downloader »** (gratuite sur le Play Store de la TV) : saisissez l'adresse ci-dessous, puis touchez le fichier `IPTVNFO-x.y.z.apk` dans la liste :
+  `https://github.com/boby15000/IPTVNFO-releases/releases/latest`
+- **Ou avec une clé USB** : copiez `IPTVNFO-x.y.z.apk` dessus, puis ouvrez-le avec un gestionnaire de fichiers sur la TV.
 
 ### Premier lancement
 1. Choisissez votre profil.
